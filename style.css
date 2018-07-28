@@ -1,0 +1,101 @@
+h1 {
+	color: white;
+	font-family: Nexa;
+}
+a {
+	color: white;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: Nexa;
+}
+input.search {
+	height: 20px;
+	width: 200px;
+	font-family: Nexa;
+}
+input.go {
+	height: 28px;
+	font-family: Nexa;
+}
+input.mail {
+	width: 400px;
+	height: 30px;
+	font-style: italic;
+	font-size: 18px;
+	font-family: Nexa;
+}
+input.sub {
+	height: 35px;
+	width: 100px;
+	font-size: 18px;
+	font-family: Nexa;
+}
+input.nama {
+	height: 20px;
+	width: 300px;
+	font-family: Nexa;
+}
+input.date {
+	font-family: Nexa;
+}
+input.tempat {
+	height: 20px;
+	width: 180px;
+	font-family: Nexa;
+}
+input.nope {
+	height: 20px;
+	width: 200px;
+	font-family: Nexa;
+}
+input.send {
+	background-color: #0693cd;
+	border: 0;
+	border-radius: 5px;
+	cursor: pointer;
+	color: #fff;
+	font-size:16px;
+	font-weight: bold;
+	line-height: 1.4;
+	padding: 8px;
+ 	width: 100px
+}
+textarea.alamat {
+	font-family: Nexa;
+}
+select.kelas {
+	font-family: Nexa;
+}
+option.kelas {
+	font-family: Nexa;
+}
+td.side {
+	width: 25%;
+}
+td.copy {
+	text-align: right;
+	color: white;
+	font-size: 12px;
+	font-family: Nexa;
+}
+td.design {
+	text-align: left;
+	color: white;
+	font-size: 12px;
+	font-family: Nexa;
+}
+td.title {
+	width: 200px;
+	height: 30px;
+	font-family: Nexa;
+}
+td.folio {
+	height: 30px;
+	font-family: Nexa;
+}
+fieldset.folio {
+	height: 93%;
+}
+fieldset.profil {
+	height: 93%;
+}
