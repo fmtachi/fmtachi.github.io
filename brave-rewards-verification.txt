@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: fmtachi.github.io
-Token: e79d36d835b7e3ac7a204ef9e3c66f08fa17b0109a94d1313af03d4197051e28
